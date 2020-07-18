@@ -45,35 +45,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Programming student and experienced consultant who has proven experience in working on fast pace software development projects. 
+      Goal-oriented team player with good technical and social skills.  
+      Interested in algorithms, AI and data analytics.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree:
+      university: Hive Helsinki
+      time: 2019 -
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Computer programming 3-year studies 
+          - Programming fundamentals in C
+          - Peer-to-peer learning
+          - Specializing in Algorithms and AI
+    - degree: BBA, Business Management
+      university: Laurea University of Applied Sciences
+      time: 2011- 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Major in Finance
+          - Project-based learning
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -124,6 +113,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Jira & Confluence
+        level: 85%
+
       - name: C
         level: 75%
 
@@ -135,9 +127,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 50%
-
-      - name: Jira & Cpnfluence
-        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
