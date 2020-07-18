@@ -46,7 +46,7 @@ career-profile:
     title: Career Profile
     summary: |
       Programming student and experienced consultant who has proven experience in working on fast pace software development projects. 
-      Goal-oriented team player with good technical and social skills.  
+      Goal-oriented team player with good technical and social skills. 
       Interested in algorithms, AI and data analytics.
 education:
     - degree: Computer programming
@@ -58,7 +58,7 @@ education:
           - Specializing in Algorithms and AI
     - degree: BBA, Business Management
       university: Laurea University of Applied Sciences
-      time: 2011- 2015
+      time: 2011 - 2015
       details: |
           - Major in Finance
           - Project-based learning
