@@ -117,7 +117,7 @@ experiences:
           - Bullet point
 projects:
     title: Projects
-    intro: >
+    summary: |
       Check my [Portfolio](https://kurval.github.io/)
       You can [download this free resume/CV template here]().
 
